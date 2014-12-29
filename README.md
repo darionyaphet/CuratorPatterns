@@ -1,0 +1,4 @@
+CuratorPatterns
+===============
+
+Curator Patterns Examples

@@ -21,4 +21,5 @@ dependencies {
     compile 'org.apache.curator:curator-recipes:2.7.0'
     compile 'org.apache.curator:curator-x-discovery:2.7.0'
     compile 'com.google.guava:guava:18.0'
+    compile 'org.apache.thrift:libthrift:0.8.0'
 }

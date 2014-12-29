@@ -19,5 +19,6 @@ dependencies {
     compile 'org.apache.curator:curator-framework:2.7.0'
     compile 'org.apache.curator:curator-test:2.7.0'
     compile 'org.apache.curator:curator-recipes:2.7.0'
+    compile 'org.apache.curator:curator-x-discovery:2.7.0'
     compile 'com.google.guava:guava:18.0'
 }
